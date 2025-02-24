@@ -33,9 +33,9 @@ cargo build --release
 
 - Fast GZIP compression using the flate2 crate
 - Progress feedback including:
-- Original file size
-- Compressed file size
-- Compression duration
+    - Original file size
+    - Compressed file size
+    - Compression duration
 
 ## Output Example
 
